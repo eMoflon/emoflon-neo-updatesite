@@ -8,3 +8,5 @@ To install eMoflon::Neo:
 2. Using the Eclipse Update Manager:
     - Install  http://hallvard.github.io/plantuml/
     - Install  https://emoflon.org/emoflon-neo-updatesite/snapshot/
+
+3. Install GraphViz dot for your system:  https://www.graphviz.org/download/  (make sure you can invoke dot from a terminal).
