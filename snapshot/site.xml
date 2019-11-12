@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emoflon.neo.feature_1.0.0.201911121403.jar" id="org.emoflon.neo.feature" version="1.0.0.201911121403"/>
+   <feature url="features/org.emoflon.neo.feature_1.0.0.qualifier.jar" id="org.emoflon.neo.feature" version="1.0.0.qualifier"/>
 </site>
