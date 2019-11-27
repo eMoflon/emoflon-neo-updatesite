@@ -1,0 +1,9 @@
+How to deploy eNeo
+-------------------
+
+1. Delete all jars in snapshot/plugins, snapshot/features
+2. Right-click snapshot/site.xml and choose "Plug-in-Tools -> Build Site"
+3. If a logs.zip is created, open this and fix all build errors
+4. Right-click snapshot/site.xml and choose "Replace With/HEAD Revision"
+5. Push all changes to emoflon-neo-update@master
+6. Make sure that the update can be installed
