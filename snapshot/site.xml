@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.emoflon.neo.feature_1.0.0.qualifier.jar" id="org.emoflon.neo.feature" version="1.0.0.qualifier">
+   <feature url="features/org.emoflon.neo.feature_1.0.0.201912031104.jar" id="org.emoflon.neo.feature" version="1.0.0.201912031104">
       <category name="org.emoflon.neo.category"/>
    </feature>
    <category-def name="org.emoflon.neo.category" label="eMoflon::Neo"/>
