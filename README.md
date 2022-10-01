@@ -18,6 +18,6 @@ To install eMoflon::Neo:
 Note that Gurobi is only free for academical use (but not for commercial).
 
 7. Check out our tutorials:
-  - [Installation, first steps and metamodelling](https://paper.dropbox.com/doc/Meta-Modelling-with-eNeo--BqO7ztnUG6wrUzfspsBpcmPPAQ-jKeVQDlC2BAdD0TDQuF0I)
-  - [Model transformation via graph transformation](https://paper.dropbox.com/doc/Model-Transformation-via-Graph-Transformation-with-eNeo--BqMX~b4j2ouU1bSrSEawmCkEAQ-z2dkcPjjgz5nQem9CXR5m)
+    - [Installation, first steps and metamodelling](https://paper.dropbox.com/doc/Meta-Modelling-with-eNeo--BqO7ztnUG6wrUzfspsBpcmPPAQ-jKeVQDlC2BAdD0TDQuF0I)
+    - [Model transformation via graph transformation](https://paper.dropbox.com/doc/Model-Transformation-via-Graph-Transformation-with-eNeo--BqMX~b4j2ouU1bSrSEawmCkEAQ-z2dkcPjjgz5nQem9CXR5m)
 
